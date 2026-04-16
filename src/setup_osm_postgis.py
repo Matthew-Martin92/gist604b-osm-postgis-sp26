@@ -214,5 +214,5 @@ def setup_osm_postgis(
     conn.close()
 
     print("Database connection closed")
-    # IMPORTANT: Remove this line after correctly implementing the function.
+    
   
