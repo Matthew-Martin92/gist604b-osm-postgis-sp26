@@ -1,4 +1,5 @@
-
+-- Query 3: Gas Stations Near Highways
+-- Purpose: Calculate the number of Gas Stations that are near highways
 WITH gas_stations AS (
     SELECT
         geom
