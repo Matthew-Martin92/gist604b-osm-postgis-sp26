@@ -1,8 +1,8 @@
-# [Project Title]
+# OSM & PostGIS
 
-**Student:** [YOUR NAME]
-**Course:** GIST 604B – Open Source GIS
-**Module:** [MODULE NUMBER AND NAME]
+**Student:** Matthew Martin  
+**Course:** GIST 604B – Open Source GIS  
+**Module:** Module 5: OSM & PostGIS Spatial Analysis  
 **University of Arizona**
 
 ## Project Description
@@ -26,9 +26,6 @@
 [Brief description of folders and key files]
 
 
-# GIST 604B – OSM & PostGIS
-
-Repository for working with OSM spatial data using PostgreSQL and PostGIS.
 
 ## Repository Structure
 
